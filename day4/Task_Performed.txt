@@ -1,0 +1,10 @@
+1 import numpy and import pandas
+2. read dataset which is in csv format 
+3.explore dataset
+   3.1 print first five rows of the dataset 
+   3.2 print first n rows of dataset
+   3.3 print last five rows of the dataset 
+   3.4 print last n rows of the dataset 
+   3.5 find Number of columns in every row with null values
+   3.6 print number of rows and columns ,types of data and number of missing values 
+ describe your dataset 
